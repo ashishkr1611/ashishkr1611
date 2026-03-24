@@ -67,13 +67,6 @@ A detail-oriented and tech-savvy professional currently pursuing a **Master of C
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishkr1611&show_icons=true&theme=omni&hide_border=false" alt="Ashish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkr1611&layout=compact&theme=omni&hide_border=false" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ashishkr1611&theme=omni&hide_border=false" alt="GitHub Streak" width="100%" />
-</p>
-
----
+![](https://github-readme-stats.vercel.app/api?username=ashishkr1611&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ashishkr1611&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkr1611&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

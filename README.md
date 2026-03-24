@@ -1,4 +1,5 @@
 # Hi, I'm Ashish Kumar 👋
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ashishkr1611&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkr1611" />
 </p>
@@ -12,7 +13,16 @@ A detail-oriented and tech-savvy professional currently pursuing a **Master of C
 - 💬 **Ask me about**: Python, SQL, E-commerce operations, and data integrity.
 - 👨‍💻 **Portfolio**: [ashishkr.in](https://www.ashishkr.in)
 - 📫 **Reach me at**: [work.ashish00@gmail.com](mailto:work.ashish00@gmail.com)
-- ⚡ **Fun fact**: I'm a quick learner who loves exploring video-based navigation systems and streamlining data workflows.
+- ⚡ **Fun fact**: Beyond coding, I express my creativity through **photography**, **cinematic video editing**.
+---
+
+### 🎨 Hobbies & Interests:
+- 🎮 **Gaming**: Exploring virtual worlds and strategy games.
+- 📸 **Photography**: Capturing moments and editing visuals.
+- 🎬 **Video Editing**: Crafting stories through cinematic edits.
+- ✈️ **Traveling**: Discovering new places and cultures.
+- 🎵 **Music**: Listening to and exploring different genres.
+- 📖 **Reading**: Tech blogs, self-improvement, and fiction.
 
 ---
 

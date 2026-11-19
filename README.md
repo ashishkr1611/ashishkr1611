@@ -140,14 +140,6 @@ An immersive music listening experience with a social-style interface and person
 - UI/UX Design
 - Google Cloud
 
-### Currently Exploring
-
-- Three.js & React Three Fiber
-- GSAP & Framer Motion
-- Lenis
-- AI Agents & MCP
-- Advanced Software Architecture
-
 ---
 
 ## 💼 Professional Experience

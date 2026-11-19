@@ -214,7 +214,6 @@ Technology isn't my only interest. I enjoy exploring creative fields and learnin
 
 I'm always open to connecting with developers, exchanging ideas, collaborating on interesting projects, and exploring opportunities in technology.
 
-\<p align="left">
 <a href="https://linkedin.com/in/ashish2510" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashish Kumar" /></a>
 <a href="mailto:work.ashish00@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="work.ashish00@gmail.com" /></a>
 </p>

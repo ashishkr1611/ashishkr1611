@@ -225,6 +225,6 @@ I'm always open to connecting with developers, exchanging ideas, collaborating o
 
 ---
 
-<p align="center">   \*\*"Think. Build. Learn. Repeat."\*\* \</p>
+<p align="center"> "Think. Build. Learn. Repeat."</p>
 
-<p align="center">   Thanks for visiting my profile! If you find something interesting, feel free to explore my repositories. ⭐ \</p>
+<p align="center">   Thanks for visiting my profile! If you find something interesting, feel free to explore my repositories. ⭐ </p>

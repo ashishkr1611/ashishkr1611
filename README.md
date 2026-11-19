@@ -191,9 +191,14 @@ CS DAV Public School, Motihari | CBSE | 80.4%
 
 ## 📊 GitHub Overview
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ashishkr1611&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=ashishkr1611\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github)" alt="Ashish's GitHub Stats" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkr1611&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkr1611\&layout=compact\&theme=github_dark\&hide_border=true)" alt="Top Languages" /> \</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishkr1611&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkr1611&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
-\<p align="center">   \<img width="95%" src="[https://streak-stats.demolab.com?user=ashishkr1611&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=ashishkr1611\&theme=github-dark-blue\&hide_border=true)" alt="GitHub Streak" /> \</p>
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=ashishkr1611&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -220,6 +225,6 @@ I'm always open to connecting with developers, exchanging ideas, collaborating o
 
 ---
 
-\<p align="center">   \*\*"Think. Build. Learn. Repeat."\*\* \</p>
+<p align="center">   \*\*"Think. Build. Learn. Repeat."\*\* \</p>
 
-\<p align="center">   Thanks for visiting my profile! If you find something interesting, feel free to explore my repositories. ⭐ \</p>
+<p align="center">   Thanks for visiting my profile! If you find something interesting, feel free to explore my repositories. ⭐ \</p>

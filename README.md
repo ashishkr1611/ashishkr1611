@@ -2,12 +2,9 @@
 
 ### Full Stack Developer · MCA Student · Builder · Tech Enthusiast
 
-\<p align="left">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=ashishkr1611&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=ashishkr1611\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile Views" />
-&#x20; \<a href="[https://github.com/ashishkr1611?tab=followers](https://github.com/ashishkr1611?tab=followers)">
-&#x20;   \<img src="[https://img.shields.io/github/followers/ashishkr1611?label=Followers&style=flat&color=blue](https://img.shields.io/github/followers/ashishkr1611?label=Followers\&style=flat\&color=blue)" alt="GitHub Followers" />
-&#x20; \</a>
-\</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashishkr1611&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkr1611" />
+</p>
 
 Currently pursuing my **Master of Computer Applications (MCA) at Manipal University Jaipur**.
 
@@ -97,23 +94,43 @@ An immersive music listening experience with a social-style interface and person
 
 ## 💻 Tech Stack & Technologies
 
-### Languages
+#### 🚀 Languages & Core
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,python,c,java,sql](https://skillicons.dev/icons?i=html,css,js,ts,python,c,java,sql)" />
-\</p>
+#### 🎨 Frontend & Design
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### Frontend Development
+#### ⚙️ Backend, Database & Cloud
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=react,nextjs,tailwind,vite](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite)" /> \</p>
+#### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Backend & Database
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,supabase,postgres,sqlite,mysql](https://skillicons.dev/icons?i=nodejs,supabase,postgres,sqlite,mysql)" /> \</p>
-
-### Tools & Platforms
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman,clerk](https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman,clerk)" /> \</p>
+#### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ### Creative & Productivity Tools
 
